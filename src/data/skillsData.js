@@ -10,11 +10,8 @@
     "Bootstrap",
     "Jasmine",
     "Jest",
-    'Graphql',
     "Node JS",
-    "Express",
-    "MongoDB",
     "Git",
-    "jQuery",
-    "Knockout"
+    "RxJS",
+    "NgRX"
 ]

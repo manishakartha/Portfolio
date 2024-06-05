@@ -1,9 +1,9 @@
-import resume from '../assets/pdf/Anoop_Ashoka_Kumar_CV.pdf'
-import  Anoop  from '../assets/images/Anoop.jpg'
+import resume from '../assets/pdf/Manisha_Kartha_Geetha_CV.pdf'
+import  Manisha  from '../assets/images/Manisha.jpg'
 export const headerData = {
-    name: 'Anoop Ashoka Kumar',
-    title: "MERN Stack Developer",
-    desciption:"MERN & MEAN stack developer with a specialization in Frontend and Backend development.",
-    image: Anoop,
+    name: 'Manisha Kartha Geetha',
+    title: "Frontend Developer",
+    desciption:"Frontend developer specialize in React and Angular",
+    image: Manisha,
     resumePdf: resume
 }

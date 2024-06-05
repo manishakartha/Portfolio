@@ -98,7 +98,7 @@ function Landing() {
                         <p>{headerData.desciption}</p>
                         <div className='landing--social-container'>
                             <a
-                                href='https://www.linkedin.com/in/anoop-a-a6b444114/'
+                                href='https://www.linkedin.com/in/manisha-kartha-geetha-663212180/'
                                 target='_blank'
                                 rel='noreferrer'
                             >
@@ -109,7 +109,7 @@ function Landing() {
                                 />
                             </a>
                             <a
-                                href='https://github.com/anoop-ashok'
+                                href='https://github.com/manishakartha'
                                 target='_blank'
                                 rel='noreferrer'
                             >
@@ -119,23 +119,13 @@ function Landing() {
                                     aria-label='GitHub'
                                 />
                             </a>
-                            <a
-                                href='https://twitter.com/AnoopA90507125'
-                                target='_blank'
-                                rel='noreferrer'
-                            >
-                                <FaTwitter
-                                    className='landing--social'
-                                    style={{ color: theme.primary }}
-                                    aria-label='Twitter'
-                                />
-                            </a>
+                            
                         </div>
                         <div className='lcr-buttonContainer'>
                             {headerData.resumePdf && (
                                 <a
                                     href={headerData.resumePdf}
-                                    download='Anoop_Ashoka_Kumar_CV'
+                                    download='Manisha_Kartha_Geetha_CV'
                                     target='_blank'
                                     rel='noreferrer'
                                 >

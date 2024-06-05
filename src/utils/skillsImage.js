@@ -6,6 +6,8 @@ import nodeJS from '../assets/svg/skills/nodeJS.svg'
 import react from '../assets/svg/skills/react.svg'
 import typescript from '../assets/svg/skills/typescript.svg'
 import bootstrap from '../assets/svg/skills/bootstrap.svg'
+import ngrx from '../assets/svg/skills/ngrx.svg'
+import rxjs from '../assets/svg/skills/rxjs.svg'
 import mongoDB from '../assets/svg/skills/mongoDB.svg'
 import git from '../assets/svg/skills/git.svg'
 import graphql from '../assets/svg/skills/graphql.svg'
@@ -48,6 +50,10 @@ export const skillsImage = (skill) => {
             return react;
         case 'typescript':
             return typescript;
+        case 'rxjs':
+            return rxjs;
+        case 'ngrx':
+            return ngrx;
         case 'bootstrap':
             return bootstrap;
         case 'mongodb':

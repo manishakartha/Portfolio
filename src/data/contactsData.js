@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'anoop.a1289@gmail.com',
-    phone: '+48 793668305',
-    address: 'House no: 41, Grenadierow 40, Warsaw, Poland',
+    email: 'maneesha.kartha@gmail.com',
+    phone: '+48 728518097',
+    address: 'Szczesna 5c/74, Warsaw, Poland',
 
     sheetAPI: ''
 }

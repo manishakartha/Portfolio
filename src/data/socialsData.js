@@ -1,5 +1,5 @@
 export const socialsData = {
-    github: 'https://github.com/anoop-ashok',
-    linkedIn: 'https://www.linkedin.com/in/anoop-a-a6b444114/',
-    twitter: 'https://twitter.com/AnoopA90507125'
+    github: 'https://github.com/manishakartha',
+    linkedIn: 'https://www.linkedin.com/in/manisha-kartha-geetha-663212180/',
+
 }
